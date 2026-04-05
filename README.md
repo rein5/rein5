@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![snake](https://raw.githubusercontent.com/rein5/rein5/output/snake.svg)
 <!--
 **rein5/rein5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
